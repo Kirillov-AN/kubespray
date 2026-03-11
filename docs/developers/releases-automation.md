@@ -34,7 +34,6 @@ This document describes a PR-based release process where release notes are revie
   - Tag: `v2.30.0`
   - File: `changelogs/v2.30.0.md`
 - If changelog file does not exist for the pushed tag, the workflow must fail.
-- Start with `draft: true` while validating the process, then switch to `draft: false`.
 
 ## Minimal Workflow Example
 
